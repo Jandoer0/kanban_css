@@ -1,5 +1,5 @@
 # kanban_css
-CSS style for Kanboard.
+CSS style for [Kanboard](https://github.com/kanboard/kanboard).
 The style adds more emphasis to improve readability.
 
 # Install
